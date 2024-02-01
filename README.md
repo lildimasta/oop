@@ -1,2 +1,2 @@
-# oop_simple
+# oop
 c++ simple cli game

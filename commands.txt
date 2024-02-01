@@ -1,0 +1,6 @@
+UP w
+RIGHT d
+DOWN s
+LEFT a
+QUIT q
+INFO i

@@ -1,0 +1,13 @@
+[FILE] Key - d Command - RIGHT
+[FILE] Key - d Command - RIGHT
+[FILE] Key - w Command - UP
+[FILE] Key - a Command - LEFT
+[FILE] Key - a Command - LEFT
+[FILE] Key - s Command - DOWN
+[FILE] Key - d Command - RIGHT
+[FILE] Key - a Command - LEFT
+[FILE] Key - d Command - RIGHT
+[FILE] Key - a Command - LEFT
+[FILE] Key - d Command - RIGHT
+[FILE] Player lost : x - 1, y - 0
+[FILE] Game ended
